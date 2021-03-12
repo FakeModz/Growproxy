@@ -1,11 +1,11 @@
 # Growtopia enet proxy edited by FakeModz#1192
 Growtopia enet proxy that allows modification and viewing of packets, and creation of new ones.
 ## How to use
-* Does not need separate http server
+* This For Android
 
-* Build with Release x64
+* For tutorial watch youtube Gucktube YT
 
-* Start proxy -> auto patch hosts -> Works as supposed
+* ENJOY
 
 ## Features
 * Print all variantlists and function calls
@@ -34,3 +34,5 @@ Growtopia enet proxy that allows modification and viewing of packets, and creati
 * ama6nen
 * wry // thanks for helps
 * wh1ter0se //thanks for helps
+* Gucktube YT
+* SrMotion
